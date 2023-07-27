@@ -17,7 +17,7 @@ header {
 main {
 	display: grid;
 	padding-top: 60px;
-	justify-content: center;
+	justify-content: left;
 }
 
 footer {
@@ -32,7 +32,7 @@ footer {
 
 #portal_button {
 	position: fixed;
-	right: 30px;
+	right: 20px;
 	top: 10px;
 }
 
@@ -45,7 +45,7 @@ a {
 	position: relative;
 	float: left;
 	height: 50px;
-	bottom: 5px;
+	bottom: 40px;
 }
 
 #newsfeed {
